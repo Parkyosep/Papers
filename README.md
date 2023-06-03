@@ -6,3 +6,17 @@ CNN architecture will be main topic, and NLP or other topics can be also be uplo
 
 이 repository는 논문에 나온 모델을 직접 구현한 코드를 담고 있습니다.  
 CNN을 주로 다룰 것이며, NLP나 다른 주제도 업로드될 수 있습니다.
+
+# Classifcation  
+AlexNet : https://github.com/Parkyosep/Papers/tree/main/AlexNet
+
+GoogLeNet : https://github.com/Parkyosep/Papers/tree/main/GoogLeNet
+
+ResNet : https://github.com/Parkyosep/Papers/tree/main/ResNet
+
+Inception-v4 : 
+
+# Object Detection  
+
+# GAN  
+
