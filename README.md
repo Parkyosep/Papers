@@ -1,5 +1,5 @@
-# Paper
-Paper with code (논문 구현)
+# Papers
+Papers with code (논문 구현)
 
 This repository contains codes(made by me) to make models in papers.  
 CNN architecture will be main topic, and NLP or other topics can be also be uploaded.
