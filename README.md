@@ -28,7 +28,11 @@ Review : https://velog.io/@bpbpbp_yosep/Inception-v4-Inception-ResNet-and-the-Im
 **Densely Connected Convolutional Networks(DenseNet)**  
 Paper : https://arxiv.org/pdf/1608.06993.pdf  
 Review : https://velog.io/@bpbpbp_yosep/Densely-Connected-Convolutional-NetworksDenseNet  
-  
+
+**Very Deep Convolutional Networks For Large-Scale Image Recognition(VGGNet)**  
+Paper : https://arxiv.org/pdf/1409.1556.pdf  
+Review : https://velog.io/@bpbpbp_yosep/Very-Deep-Convolutional-Networks-For-Large-Scale-Image-RecognitionVGGNet  
+
 # Object Detection  
 
 # GAN  
