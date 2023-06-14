@@ -37,6 +37,10 @@ Review : https://velog.io/@bpbpbp_yosep/Inception-v4-Inception-ResNet-and-the-Im
 Paper : https://arxiv.org/pdf/1608.06993.pdf  
 Review : https://velog.io/@bpbpbp_yosep/Densely-Connected-Convolutional-NetworksDenseNet  
 
+**Wide Residual Networks(WRNs) [2017.6.14]**  
+Paper : https://arxiv.org/pdf/1605.07146.pdf  
+Review : https://velog.io/@bpbpbp_yosep/Wide-Residual-NetworkWRN  
+
 # Object Detection  
 
 # GAN  
