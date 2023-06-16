@@ -16,19 +16,22 @@ CNN을 주로 다룰 것이며, NLP나 다른 주제도 업로드될 수 있습�
 [Paper](https://arxiv.org/pdf/1409.1556.pdf), [Review](https://velog.io/@bpbpbp_yosep/Very-Deep-Convolutional-Networks-For-Large-Scale-Image-RecognitionVGGNet), [Code](https://github.com/Parkyosep/Papers/tree/main/VGGNet)  
 
 **Going deeper with convolutions(GoogleNet) [2014.9.17]**  
-[Paper](https://arxiv.org/abs/1409.4842), [Review](https://velog.io/@bpbpbp_yosep/Going-deeper-with-convolutionsGoogLeNet), [Code](  
+[Paper](https://arxiv.org/abs/1409.4842), [Review](https://velog.io/@bpbpbp_yosep/Going-deeper-with-convolutionsGoogLeNet), [Code](https://github.com/Parkyosep/Papers/tree/main/GoogLeNet)  
 
 **Rethinking the Inception Architecture for Computer Vision(Inception-v2, v3) [2015.12.2]**  
 [Paper](https://arxiv.org/pdf/1512.00567.pdf), [Review](https://velog.io/@bpbpbp_yosep/Rethinking-the-Inception-Architecture-for-Computer-VisionInception-v2-v3)  
 
 **Deep Residual Learning for Image Recognition(ResNet) [2015.12.10]**  
-[Paper](https://arxiv.org/abs/1512.03385), [Review](https://velog.io/@bpbpbp_yosep/Deep-Residual-Learning-for-Image-RecognitionResNet)  
+[Paper](https://arxiv.org/abs/1512.03385), [Review](https://velog.io/@bpbpbp_yosep/Deep-Residual-Learning-for-Image-RecognitionResNet), [Code](https://github.com/Parkyosep/Papers/tree/main/ResNet)  
   
 **Inception-v4, Inception-ResNet and the Impact of Residual Connections [2016.2.23]**  
-[Paper](https://arxiv.org/pdf/1602.07261v2.pdf), [Review](https://velog.io/@bpbpbp_yosep/Inception-v4-Inception-ResNet-and-the-Impact-of-Residual-Connections)  
+[Paper](https://arxiv.org/pdf/1602.07261v2.pdf), [Review](https://velog.io/@bpbpbp_yosep/Inception-v4-Inception-ResNet-and-the-Impact-of-Residual-Connections), [Code](https://github.com/Parkyosep/Papers/tree/main/Inception_v4)  
+
+**Identity Mappings in Deep Residual Networks(Pre-activation ResNet) [2016.7.25]**  
+[Paper](https://arxiv.org/pdf/1603.05027.pdf), [Review](https://velog.io/@bpbpbp_yosep/Identity-Mappings-in-Deep-Residual-NetworksPre-activation-ResNet)  
   
 **Densely Connected Convolutional Networks(DenseNet) [2016.8.25]**  
-[Paper](https://arxiv.org/pdf/1608.06993.pdf), [Review](https://velog.io/@bpbpbp_yosep/Densely-Connected-Convolutional-NetworksDenseNet)  
+[Paper](https://arxiv.org/pdf/1608.06993.pdf), [Review](https://velog.io/@bpbpbp_yosep/Densely-Connected-Convolutional-NetworksDenseNet), [Code](https://github.com/Parkyosep/Papers/tree/main/DenseNet)  
 
 **Wide Residual Networks(WRNs) [2017.6.14]**  
 [Paper](https://arxiv.org/pdf/1605.07146.pdf), [Review](https://velog.io/@bpbpbp_yosep/Wide-Residual-NetworkWRN)  
