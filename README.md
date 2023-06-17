@@ -7,7 +7,7 @@ CNN architecture will be main topic, and NLP or other topics can be also be uplo
 이 repository는 논문에 나온 모델을 직접 구현한 코드를 담고 있습니다.  
 CNN을 주로 다룰 것이며, NLP나 다른 주제도 업로드될 수 있습니다.
 
-# Classifcation  
+# Classification  
 
 **ImageNet Classification with Deep Convolutional Neural Networks(AlexNet) [2012.9]**   
 [Paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Review](https://velog.io/@bpbpbp_yosep/ImageNet-Classification-with-Deep-Convolutional-Neural-NetworksAlexnet), [Code](https://github.com/Parkyosep/Papers/blob/main/Classification/Alexnet(PyTorch).ipynb)  
