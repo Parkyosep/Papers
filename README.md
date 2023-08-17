@@ -40,5 +40,8 @@ CNN을 주로 다룰 것이며, NLP나 다른 주제도 업로드될 수 있습�
 **Rich feature hierarchies for accurate object detection and semantic segmentation(R-CNN) [2014.10.22]**  
 [Paper](https://arxiv.org/pdf/1311.2524.pdf), [Review](https://velog.io/@bpbpbp_yosep/Rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentationR-CNN)  
 
+**Fast R-CNN [2015.9.27]**  
+[Paper](https://arxiv.org/pdf/1504.08083.pdf), [Review](https://velog.io/@bpbpbp_yosep/Fast-R-CNN)  
+
 # GAN  
 
